@@ -1,4 +1,4 @@
-# responsive_bootstrap_website_coursera
+# responsive_bootstrap_website_for_coursera
 
 Front-end Web UI Frameworks Overview: responsive bootstrap websites
 
@@ -10,9 +10,9 @@ Front-end Web UI Frameworks Overview: responsive bootstrap websites
 
 ## Authors
 
-* **Moamar Alswedan** - *Source* - [Moamar alswedan](https://github.com/moamar-alswedan)
+* **Moamar Alswedan** - *link* - [Moamar alswedan](https://github.com/moamar-alswedan)
 
 ## Links
-* **bitballoon ** - *Source* -[Ristorante con Fusion](http://bootstrap-coursera.bitballoon.com/)
+* **bitballoon** - *link* -[Ristorante con Fusion](http://bootstrap-coursera.bitballoon.com/)
 
-* **Github ** - *Source* -[responsive_bootstrap_website_coursera](https://github.com/moamar-alswedan/responsive_bootstrap_website_coursera)
+* **Github** - *link* -[responsive_bootstrap_website_coursera](https://github.com/moamar-alswedan/responsive_bootstrap_website_coursera)
